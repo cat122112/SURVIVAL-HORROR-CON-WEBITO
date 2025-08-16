@@ -1,12 +1,12 @@
 
 # Common configuration settings
 [common]
-	# If enabled, hides the config button from the backpack screen
-	# Valid values: true, false
-	keepBackpackOnDeath = false
 	# The amount of slot columns in the backpack inventory.
 	# Valid range: 1 to 13 (inclusive)
 	backpackInventorySizeColumns = 9
+	# If enabled, hides the config button from the backpack screen
+	# Valid values: true, false
+	keepBackpackOnDeath = false
 	# The amount of slot rows in the backpack inventory.
 	# Valid range: 1 to 7 (inclusive)
 	backpackInventorySize = 1
